@@ -16,8 +16,7 @@
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn]()  
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/viswanand-muruganantham-28147a253)  
