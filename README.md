@@ -17,8 +17,8 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
+[![LinkedIn](www.linkedin.com/in/viswanand-muruganantham-28147a253)  
+
 
 ---
 
