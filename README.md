@@ -17,9 +17,13 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](www.linkedin.com/in/viswanand-muruganantham-28147a253)  
+[![LinkedIn]()  
 
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/viswanand-muruganantham-28147a253)  
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/your-id](https://stackoverflow.com/users/23403997/viswanandmuruganantham))
 
+---
 ---
 
 ## 💻 Tech Stack
