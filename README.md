@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=600&height=60&lines=Hi+there!+I+am+Viswanand+" alt="Typing SVG" />
+</p>
+
+
 
 <!--
 **viswanandMuruganantham/viswanandMuruganantham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
